@@ -1,1 +1,1 @@
-# DATA6150_Idividual_Project
+# DATA6150_Individual_Project
